@@ -1,0 +1,38 @@
+{
+  "checked_at": "2026-11-22",
+  "original_modified": false,
+  "return_url": "https://danyeva.sourcecraft.site/kletochka/",
+  "records": [
+    {
+      "url": "https://danyeva.sourcecraft.site/kletochka/",
+      "http_status": 200,
+      "bytes": 9624,
+      "sha256": "93ce13b454ed00daf9623fecf328dc1830e886bba3863957c8527d211ff194e7",
+      "read": true
+    },
+    {
+      "url": "https://danyeva.sourcecraft.site/kletochka/app.js",
+      "http_status": 200,
+      "bytes": 14644,
+      "sha256": "93d4dd0f11422486165e68e52f0082c5db5dce9ec7af441f1b750a1c307ffe11",
+      "read": true
+    },
+    {
+      "url": "https://danyeva.sourcecraft.site/kletochka/style.css",
+      "http_status": 200,
+      "bytes": 199312,
+      "sha256": "b3ee25c2c908431a9047f906c59d0de8ca6729a7765d28fc8697b2908c464a4a",
+      "read": true
+    },
+    {
+      "url": "https://danyeva.sourcecraft.site/kletochka/cards.json",
+      "http_status": 200,
+      "bytes": 38769,
+      "sha256": "5d12133c4a802058c4554b47d81f8755b58242e4aaf25eb0e843eb7d6ba497fd",
+      "read": true
+    }
+  ],
+  "confirmed_cards": 30,
+  "contact_source": "cards.json owner object",
+  "backup": "Original remains online and unmodified. Local audit has hashes only; no migration of original deck claimed."
+}

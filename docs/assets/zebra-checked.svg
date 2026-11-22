@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 560" fill="none">
+<defs>
+ <path id="body" d="M158 276C139 223 179 178 244 178c62-1 106 22 143 4l57-84c16-25 40-32 62-23l28 20 45 17c19 9 30 24 23 38-7 16-29 12-49 6l-39-9c-21 29-35 55-45 88-14 53-38 83-92 89-54 6-114-2-151-14-29-10-53-18-68-34Z"/>
+ <clipPath id="clip"><use href="#body"/></clipPath>
+ <pattern id="grid" width="37" height="37" patternUnits="userSpaceOnUse" patternTransform="rotate(-6)"><rect width="37" height="37" fill="#faf9f3"/><path d="M0 0h37v37H0Z" stroke="#272a25" stroke-width="2"/><path d="M0 0h18.5v18.5H0zM18.5 18.5H37V37H18.5z" fill="#272a25"/></pattern>
+ <pattern id="stripes" width="52" height="150" patternUnits="userSpaceOnUse" patternTransform="rotate(-14)"><rect width="52" height="150" fill="#faf9f3"/><path d="M0-20c38 40-19 74 8 112l20 60H8L-6 91c-18-43 27-69 6-111Zm35 0c-4 28 22 55 8 90l-13 40 16-15c21-40-4-80 8-115Z" fill="#272a25"/></pattern>
+</defs>
+<ellipse cx="351" cy="475" rx="220" ry="12" fill="#c4cbb9" opacity=".25"/>
+<g stroke="#272a25" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+<g class="legs-back" fill="url(#stripes)"><path d="m246 297-12 69-33 82 4 13h30l-1-14 37-75 25-67Z"/><path d="m404 295 12 71 36 77 1 14h28l-6-18-29-82 1-66Z"/></g>
+<path d="M166 221c-40 10-35 70-60 85"/><path d="m106 306-23 8 8-18 17-10 4 18-6 14" fill="#272a25"/>
+<use href="#body" fill="url(#stripes)"/>
+<g class="checks" clip-path="url(#clip)" opacity="1"><rect x="110" y="65" width="510" height="300" fill="url(#grid)"/><path d="m289 226 37-4 4 36-37 4Z" fill="#a9b993"/></g>
+<path d="m391 175 8-26 11 5-2-20 14 3-1-19 14 3 1-17 14 5 4-20 13 6 8-18" fill="#272a25"/>
+<path d="M473 81c-11-22-9-47-2-51 14-1 22 27 23 45M501 77c2-28 14-47 24-44 12 11-2 38-14 49" fill="#faf9f3"/>
+<path d="m476 64-3-18m36 19 9-18" stroke-width="3"/>
+<path d="M552 111c-8 6-11 22-9 38l21 7c20 6 32 5 38-6 7-13-7-30-24-37Z" fill="#deded1" stroke-width="2"/>
+<path d="m230 303-2 70-17 77 1 16h34l-2-18 18-76 11-61M374 311l-2 69-3 73 6 14h32l-8-17 8-75 9-71" fill="url(#stripes)"/>
+<path d="M212 455h32m130 0h27m54-9h22m-272 3h28" stroke-width="8"/>
+<circle cx="526" cy="106" r="4" fill="#272a25" stroke="none"/>
+<path d="m519 97 11-2m49 38 6 2m-26 12c12 5 22 4 27 0" stroke-width="2.5"/>
+<path d="M177 216c14-24 31-27 52-28m-37 110c36 17 70 23 104 22" opacity=".38" stroke-width="1.3"/>
+</g></svg>

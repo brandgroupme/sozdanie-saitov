@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "date": "2026-11-22",
+  "mode": "svg-only-approved",
+  "paid_generations": 0,
+  "audio": null,
+  "video": null,
+  "assets": [
+    {
+      "id": "zebra",
+      "purpose": "Главный герой, полосы переходят в клетку",
+      "provenance": "authored-in-session-svg-code",
+      "source": "Original vector code written for this project; no external stock",
+      "rights": "Created for the user under the current project request; brand names supplied by user",
+      "prompt": "Hand-drawn ink, stable silhouette, pale paper, restrained sage and violet. No generated AI image used.",
+      "version": "1.0",
+      "duration": null,
+      "fps": null,
+      "dimensions": [
+        700,
+        560
+      ],
+      "alpha": true,
+      "poster": "assets/zebra.svg",
+      "desktop": "assets/zebra.svg",
+      "mobile": "assets/zebra.svg",
+      "path": "assets/zebra.svg",
+      "sha256": "5e5b280d34652cff95a051b08ef36f0a9707a182ece24b0ca8ae91e734d2dd2d"
+    },
+    {
+      "id": "zebra-checked",
+      "purpose": "Статичная клетчатая зебра для кейса",
+      "provenance": "authored-in-session-svg-code",
+      "source": "Original vector code written for this project; no external stock",
+      "rights": "Created for the user under the current project request; brand names supplied by user",
+      "prompt": "Hand-drawn ink, stable silhouette, pale paper, restrained sage and violet. No generated AI image used.",
+      "version": "1.0",
+      "duration": null,
+      "fps": null,
+      "dimensions": [
+        700,
+        560
+      ],
+      "alpha": true,
+      "poster": "assets/zebra-checked.svg",
+      "desktop": "assets/zebra-checked.svg",
+      "mobile": "assets/zebra-checked.svg",
+      "path": "assets/zebra-checked.svg",
+      "sha256": "f70a456bc0818659b4adab2731d7137a562a5c1bef8ba0d7164d533b98a20f91"
+    },
+    {
+      "id": "crow",
+      "purpose": "Фиолетовая ворона, анимируемое крыло",
+      "provenance": "authored-in-session-svg-code",
+      "source": "Original vector code written for this project; no external stock",
+      "rights": "Created for the user under the current project request; brand names supplied by user",
+      "prompt": "Hand-drawn ink, stable silhouette, pale paper, restrained sage and violet. No generated AI image used.",
+      "version": "1.0",
+      "duration": null,
+      "fps": null,
+      "dimensions": [
+        260,
+        200
+      ],
+      "alpha": true,
+      "poster": "assets/crow.svg",
+      "desktop": "assets/crow.svg",
+      "mobile": "assets/crow.svg",
+      "path": "assets/crow.svg",
+      "sha256": "9e981a43505e4f5d217c8efa80ce1eacbaa6e1f4d9b136f32ff616c069ec3602"
+    },
+    {
+      "id": "chameleon",
+      "purpose": "Хамелеон, независимый маршрут",
+      "provenance": "authored-in-session-svg-code",
+      "source": "Original vector code written for this project; no external stock",
+      "rights": "Created for the user under the current project request; brand names supplied by user",
+      "prompt": "Hand-drawn ink, stable silhouette, pale paper, restrained sage and violet. No generated AI image used.",
+      "version": "1.0",
+      "duration": null,
+      "fps": null,
+      "dimensions": [
+        340,
+        180
+      ],
+      "alpha": true,
+      "poster": "assets/chameleon.svg",
+      "desktop": "assets/chameleon.svg",
+      "mobile": "assets/chameleon.svg",
+      "path": "assets/chameleon.svg",
+      "sha256": "4972eb899491082bb4f30aa37f9cd2c8a104b201b3bc26d9fa11a95756548197"
+    },
+    {
+      "id": "paper",
+      "purpose": "Тонкая фактура бумаги",
+      "provenance": "authored-in-session-svg-code",
+      "source": "Original vector code written for this project; no external stock",
+      "rights": "Created for the user under the current project request; brand names supplied by user",
+      "prompt": "Hand-drawn ink, stable silhouette, pale paper, restrained sage and violet. No generated AI image used.",
+      "version": "1.0",
+      "duration": null,
+      "fps": null,
+      "dimensions": [
+        180,
+        180
+      ],
+      "alpha": true,
+      "poster": "assets/paper.svg",
+      "desktop": "assets/paper.svg",
+      "mobile": "assets/paper.svg",
+      "path": "assets/paper.svg",
+      "sha256": "1d514356a07e9dfac717d9c6e27afebcf6a238521509a8b695dd58176f1b5f52"
+    },
+    {
+      "id": "favicon",
+      "purpose": "Знак проекта",
+      "provenance": "authored-in-session-svg-code",
+      "source": "Original vector code written for this project; no external stock",
+      "rights": "Created for the user under the current project request; brand names supplied by user",
+      "prompt": "Hand-drawn ink, stable silhouette, pale paper, restrained sage and violet. No generated AI image used.",
+      "version": "1.0",
+      "duration": null,
+      "fps": null,
+      "dimensions": [
+        64,
+        64
+      ],
+      "alpha": true,
+      "poster": "assets/favicon.svg",
+      "desktop": "assets/favicon.svg",
+      "mobile": "assets/favicon.svg",
+      "path": "assets/favicon.svg",
+      "sha256": "0cd280471be10f500738467327ee96fe5bc3864bdae7e4a77414282e3d492cda"
+    }
+  ]
+}
